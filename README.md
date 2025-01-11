@@ -75,5 +75,9 @@ The application will be available at http://127.0.0.1:5000/.
 - Enter the sepal length, sepal width, petal length, and petal width of the flower.
 - Click the Predict button to see the predicted species.
 
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 
