@@ -3,7 +3,7 @@
 
 The Iris Flower Classification Project is a web-based application developed using Flask, designed to demonstrate the use of machine learning models for predicting the species of the Iris flower based on its physical attributes. The project leverages the widely-used Iris dataset, which contains 150 records of flowers categorized into three species: Setosa, Versicolor, and Virginica. Each record includes four features: sepal length, sepal width, petal length, and petal width.
 
-# ## Features 🛠️
+### Features 🛠️
 
 - **Machine Learning Model**:
   - Trained using the Iris dataset.
