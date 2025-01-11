@@ -48,8 +48,8 @@ The Iris Flower Classification Project is a web-based application developed usin
 ## **Getting Started** 🚀 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/iris-ml-flask.git
-   cd iris-ml-flask
+   git clone https://github.com/pranayganvir/iris-deploy-on-flask.git
+   cd iris-deploy-on-flask
    ```
 
 2. Create and activate a virtual environment:
