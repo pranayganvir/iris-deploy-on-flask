@@ -77,7 +77,7 @@ The application will be available at http://127.0.0.1:5000/.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/pranayganvir/iris-deploy-on-flask/blob/main/Screenshot%20(6).png)
 
 
 
